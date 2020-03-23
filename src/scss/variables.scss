@@ -1,0 +1,16 @@
+$primary: #00d1b2;
+$info: #3298dc;
+
+$success: darken(#68ffab, 30%);
+
+$my-primary-light: fade_out($primary, 0.1);
+
+
+
+::selection {
+  background: #FFE6B3; /* WebKit/Blink Browsers */
+}
+::-moz-selection {
+  background: #FFE6B3; /* Gecko Browsers */
+}
+
