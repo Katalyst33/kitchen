@@ -15,7 +15,7 @@
     "dotenv": "latest",
     "express": "latest",
     "express-promise-router": "^3.0.3",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "mongoose": "^5.9.5",
     "morgan": "^1.10.0",
